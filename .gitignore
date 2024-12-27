@@ -1,1 +1,7 @@
- 
+# Build products
+*.o
+*.app
+HelloWorld
+
+# macOS system files
+.DS_Store 
